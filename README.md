@@ -1,4 +1,4 @@
-# DP-700 Microsoft Fabric Data Engineer Journey 🚀
+# DP-700 Microsoft Fabric Data Engineer Journey 
 
 This repository documents my hands-on learning journey through the 
 DP-700: Microsoft Fabric Data Engineer Associate certification path.
